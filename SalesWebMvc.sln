@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesWebMvc", "SalesWebMvc\SalesWebMvc.csproj", "{B70838D8-938A-4818-BD33-07E9E98025A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesWebMvc", "SalesWebMvc\SalesWebMvc.csproj", "{B70838D8-938A-4818-BD33-07E9E98025A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesWebMvc244ap", "SalesWebMvc244ap\SalesWebMvc244ap.csproj", "{6F144E64-CE40-4A13-9461-7CEF1D1F2899}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B70838D8-938A-4818-BD33-07E9E98025A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B70838D8-938A-4818-BD33-07E9E98025A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B70838D8-938A-4818-BD33-07E9E98025A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F144E64-CE40-4A13-9461-7CEF1D1F2899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F144E64-CE40-4A13-9461-7CEF1D1F2899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F144E64-CE40-4A13-9461-7CEF1D1F2899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F144E64-CE40-4A13-9461-7CEF1D1F2899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
